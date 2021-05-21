@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+  display: block;
+  margin: 1rem 0;
+  font-size: 0.9rem;
+  padding: 0.5rem;
+  transition-duration: 0.1s;
+  background-color: white; 
+  color: black; 
+  border: 2px solid #4CAF50;
+  border-radius: 5px;
+}
+
+button:active {
+  background-color: #4caf4f50; 
+}
+
+label {
+  margin: 0.5rem 0;
+  display: block;
+}
+
+input {
+  border: none;
+  border-bottom: 2px solid #3CBC8D;;
+}
+
+input:focus {
+  background-color: #4caf4f50; 
+}
