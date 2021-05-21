@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "HTML Rip",
   "description": "This rips the current ebsites Main tag html and allows it to be saved as an file or copies it to your clipboard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icons": {
     "64": "icons/icon.png"
   },
@@ -38,7 +38,7 @@
   "browser_specific_settings": {
     "gecko": {
       "id": "mihkel.liblikman@gmail.com",
-      "strict_min_version": "42.0"
+      "strict_min_version": "48.0"
     }
   }
   
